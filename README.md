@@ -1,2 +1,2 @@
 # Jeffs-Code-Lessons
-I'm keeping code snippets I've tested for reference.
+Here are education code snippets for reference.
